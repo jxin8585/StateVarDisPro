@@ -1,2 +1,1 @@
-# Gemini
-“双子”计划
+# StVarDisPro
